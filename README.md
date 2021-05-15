@@ -31,7 +31,7 @@ Currently Uniswap decentralized exchange can be bought, everyone can play with i
 
 Uniswap purchase address:https://app.uniswap.org/#/swap?outputCurrency=0x648ccf0c1039f6b4070df53570793f915876642a&use=V2
 
-Contract address:0x648ccf0c1039f6b4070df53570793f915876642a
+Contract address: 0x648ccf0c1039f6b4070df53570793f915876642a
 
 Website: www.wowb.org
 
