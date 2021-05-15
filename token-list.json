@@ -11,8 +11,8 @@
       {
       "chainId": 1,
       "address": "0x648ccf0c1039f6b4070df53570793f915876642a",
-      "name": “Wowb Token”,
-      "symbol": “WOWB”,
+      "name": "Wowb Token",
+      "symbol": "WOWB",
       "decimals": 18,
       "logoURI": "https://www.wowb.org/img/logo.png"
       }
